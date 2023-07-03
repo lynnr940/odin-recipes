@@ -1,0 +1,1 @@
+This is a simple html website that will serve as practice on html.
